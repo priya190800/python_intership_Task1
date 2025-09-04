@@ -10,7 +10,7 @@ This project fetches weather forecast data from OpenWeatherMap API and visualize
   - Temperature trend
   - Humidity trend
   - Wind speed distribution
-
+fgr
 ## How to Run
 1. Install dependencies:
    ```bash
